@@ -1,4 +1,4 @@
-# Importing Library to print random jokes
+# Importing Module to print random jokes
 
 import pyjokes
 
