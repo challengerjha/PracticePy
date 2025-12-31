@@ -1,4 +1,4 @@
-# Write a python program to find the remainder when one number is divided by Z
+# Write a python program to find the remainder when one number is divided by another number
 
 First_num = int(input("Enter first number: "))
 Second_num = int(input("Enter second number: "))
