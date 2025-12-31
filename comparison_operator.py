@@ -8,4 +8,4 @@ b = 80
 Check = a < b
 
 # Printing the result
-print("Is a greater than b> ", Check)
+print("Is a greater than b: ", Check)
