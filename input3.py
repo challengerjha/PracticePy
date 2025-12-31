@@ -1,3 +1,3 @@
 # To Take Input from User
 age = input("Enter your Age: ")
-print(age)
+print("Your age is: ", age)
