@@ -50,6 +50,7 @@ print(marks.items())
 print(len(marks))
 
 # Copy dictionary
+print(marks.copy())
 
 # Clearing entire dictionary
 marks.clear()
