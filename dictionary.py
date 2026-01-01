@@ -46,5 +46,10 @@ print(marks.values())
 # Printing all items in dictionary
 print(marks.items())
 
+# Printing length of dictionary
+print(len(marks))
+
+# Copy dictionary
+
 # Clearing entire dictionary
 marks.clear()
