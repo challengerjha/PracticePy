@@ -9,3 +9,4 @@
 
 # "FizzBuzz" if divisible by both
 
+def fizzBuzz(n):
