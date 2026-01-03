@@ -52,5 +52,8 @@ print(len(marks))
 # Copy dictionary
 print(marks.copy())
 
+# Prinitng from dict constructor
+print(dict(marks))
+
 # Clearing entire dictionary
 marks.clear()
